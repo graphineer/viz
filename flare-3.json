@@ -1,9 +1,4 @@
-{
- "name": "god",
- "children": [
-  {
-   "name": "boris",
-   "children": [
+
     {
      "name": "dimi",
      "children": [
@@ -12,22 +7,4 @@
       {"name": "3", "value": 6714},
       {"name": "4", "value": 743}
      ]
-    },
-    {
-     "name": "richi",
-     "children": [
-      {"name": "sven", "value": 3534},
-      {"name": "flex", "value": 5731},
-      {"name": "ervis", "value": 7840},
-      {"name": "judith", "value": 5914},
-      {"name": "pipi", "value": 3416}
-     ]
-    },
-    {
-     "name": "carlos",
-     "children": [
-      {"name": "beam", "value": 7074}
-     ]
-    },
-    {"name": "Xor", "value": 1101}
-  ]}]}
+    }
