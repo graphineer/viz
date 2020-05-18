@@ -7,20 +7,20 @@
     {
      "name": "C",
      "children": [
-      {"name": "D"},
-      {"name": "E"},
-      {"name": "F"},
-      {"name": "G"}
+      {"name": "D", "size": 1},
+      {"name": "E", "size": 1},
+      {"name": "F", "size": 1},
+      {"name": "G", "size": 1}
      ]
     },
     {
      "name": "S",
      "children": [
-      {"name": "H"},
-      {"name": "I"},
-      {"name": "J"},
-      {"name": "K"},
-      {"name": "L"}
+      {"name": "H", "size": 1},
+      {"name": "I", "size": 1},
+      {"name": "J", "size": 1},
+      {"name": "K", "size": 1},
+      {"name": "L", "size": 1}
      ]
     },
     {
@@ -29,9 +29,9 @@
       {"name": "N", 
         "children": [
 
-      {"name": "X"},
-      {"name": "Y"},
-      {"name": "Z"}
+      {"name": "X", "size": 1},
+      {"name": "Y", "size": 1},
+      {"name": "Z", "size": 1}
         ]
 
         }
