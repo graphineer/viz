@@ -7,20 +7,20 @@
                "name": "C",
                "children": [
                   {
-                     "name": "D", "size": 1,
-                     "children": []
+                     "name": "D",
+                     "size:": 1
                   },
                   {
-                     "name": "E", "size": 1,
-                     "children": []
+                     "name": "E",
+                     "size:": 1
                   },
                   {
-                     "name": "F", "size": 1,
-                     "children": []
+                     "name": "F",
+                     "size:": 1
                   },
                   {
-                     "name": "G", "size": 1,
-                     "children": []
+                     "name": "G",
+                     "size:": 1
                   }
                ]
             },
@@ -31,16 +31,16 @@
                      "name": "N",
                      "children": [
                         {
-                           "name": "X", "size": 1,
-                           "children": []
+                           "name": "X",
+                           "size:": 1
                         },
                         {
-                           "name": "Y", "size": 1,
-                           "children": []
+                           "name": "Y",
+                           "size:": 1
                         },
                         {
-                           "name": "Z", "size": 1,
-                           "children": []
+                           "name": "Z",
+                           "size:": 1
                         }
                      ]
                   }
@@ -50,24 +50,24 @@
                "name": "S",
                "children": [
                   {
-                     "name": "H", "size": 1,
-                     "children": []
+                     "name": "H",
+                     "size:": 1
                   },
                   {
-                     "name": "I", "size": 1,
-                     "children": []
+                     "name": "I",
+                     "size:": 1
                   },
                   {
-                     "name": "J", "size": 1,
-                     "children": []
+                     "name": "J",
+                     "size:": 1
                   },
                   {
-                     "name": "K", "size": 1,
-                     "children": []
+                     "name": "K",
+                     "size:": 1
                   },
                   {
-                     "name": "L", "size": 1,
-                     "children": []
+                     "name": "L",
+                     "size:": 1
                   }
                ]
             }
@@ -75,4 +75,3 @@
       }
    ]
 }
-
