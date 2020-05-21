@@ -7,19 +7,19 @@
                "name": "C",
                "children": [
                   {
-                     "name": "D",
+                     "name": "D", "size": 1,
                      "children": []
                   },
                   {
-                     "name": "E",
+                     "name": "E", "size": 1,
                      "children": []
                   },
                   {
-                     "name": "F",
+                     "name": "F", "size": 1,
                      "children": []
                   },
                   {
-                     "name": "G",
+                     "name": "G", "size": 1,
                      "children": []
                   }
                ]
@@ -31,15 +31,15 @@
                      "name": "N",
                      "children": [
                         {
-                           "name": "X",
+                           "name": "X", "size": 1,
                            "children": []
                         },
                         {
-                           "name": "Y",
+                           "name": "Y", "size": 1,
                            "children": []
                         },
                         {
-                           "name": "Z",
+                           "name": "Z", "size": 1,
                            "children": []
                         }
                      ]
@@ -50,23 +50,23 @@
                "name": "S",
                "children": [
                   {
-                     "name": "H",
+                     "name": "H", "size": 1,
                      "children": []
                   },
                   {
-                     "name": "I",
+                     "name": "I", "size": 1,
                      "children": []
                   },
                   {
-                     "name": "J",
+                     "name": "J", "size": 1,
                      "children": []
                   },
                   {
-                     "name": "K",
+                     "name": "K", "size": 1,
                      "children": []
                   },
                   {
-                     "name": "L",
+                     "name": "L", "size": 1,
                      "children": []
                   }
                ]
