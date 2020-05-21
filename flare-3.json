@@ -1,20 +1,20 @@
 {
- "name": "King of the Hill",
+ "name": "A",
  "children": [
   {
-   "name": "Boris",
+   "name": "B",
    "children": [
     {
-     "name": "James Bond",
+     "name": "C",
      "children": [
-      {"name": "Crazy Frog", "size": 1},
-      {"name": "Pipi", "size": 1},
-      {"name": "Greg", "size": 1},
-      {"name": "Hectoooor", "size": 1}
+      {"name": "D", "size": 1},
+      {"name": "E", "size": 1},
+      {"name": "F", "size": 1},
+      {"name": "G", "size": 1}
      ]
     },
     {
-     "name": "Spiderman",
+     "name": "S",
      "children": [
       {"name": "H", "size": 1},
       {"name": "I", "size": 1},
@@ -22,7 +22,19 @@
       {"name": "K", "size": 1},
       {"name": "L", "size": 1}
      ]
-    }
+    },
+    {
+     "name": "M",
+     "children": [
+      {"name": "N", 
+        "children": [
+
+      {"name": "X", "size": 1},
+      {"name": "Y", "size": 1},
+      {"name": "Z", "size": 1}
+        ]
+
+        }
      ]
     }
    ]
