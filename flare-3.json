@@ -22,19 +22,7 @@
       {"name": "K", "size": 1},
       {"name": "L", "size": 1}
      ]
-    },
-    {
-     "name": "Thinker",
-     "children": [
-      {"name": "Allah", 
-        "children": [
-
-      {"name": "X", "size": 1},
-      {"name": "Y", "size": 1},
-      {"name": "Z", "size": 1}
-        ]
-
-        }
+    }
      ]
     }
    ]
