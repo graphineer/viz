@@ -1,42 +1,94 @@
 {
- "name": "A", "color": "#a9a9a9",
- "children": [
-  {
-   "name": "B", "color": "#a9a9a9",
-   "children": [
-    {
-     "name": "C", "color": "#a9a9a9",
-     "children": [
-      {"name": "D", "size": 1, "color": "#a9a9a9"},
-      {"name": "E", "size": 1, "color": "#a9a9a9"},
-      {"name": "F", "size": 1, "color": "#a9a9a9"},
-      {"name": "D", "size": 1, "color": "#ef69b4"}
-     ]
-    },
-    {
-     "name": "D", "color": "#ef69b4",
-     "children": [
-      {"name": "H", "size": 1, "color": "#a9a9a9"},
-      {"name": "I", "size": 1, "color": "#a9a9a9"},
-      {"name": "J", "size": 1, "color": "#a9a9a9"},
-      {"name": "K", "size": 1, "color": "#a9a9a9"},
-      {"name": "D", "size": 1, "color": "#ef69b4"}
-     ]
-    },
-    {
-     "name": "M", "color": "#a9a9a9",
-     "children": [
-      {"name": "N", "color": "#a9a9a9", 
-        "children": [
-
-      {"name": "X", "size": 1, "color": "#a9a9a9"},
-      {"name": "Y", "size": 1, "color": "#a9a9a9"},
-      {"name": "Z", "size": 1, "color": "#a9a9a9"}
-        ]
-
-        }
-     ]
-    }
+   "name": "A", "children": [
+      {
+         "name": "B",
+         "color": "#A9DFBF",
+         "children": [
+            {
+               "name": "C",
+               "color": "#F9E79F",
+               "children": [
+                  {
+                     "name": "D",
+                     "color": "#A9DFBF",
+                     "size": 1
+                  },
+                  {
+                     "name": "E",
+                     "color": "#F9E79F",
+                     "size": 1
+                  },
+                  {
+                     "name": "F",
+                     "color": "#AED6F1",
+                     "size": 1
+                  },
+                  {
+                     "name": "G",
+                     "color": "#85C1E9",
+                     "size": 1
+                  }
+               ]
+            },
+            {
+               "name": "M",
+               "color": "#AED6F1",
+               "children": [
+                  {
+                     "name": "N",
+                     "color": "#F9E79F",
+                     "children": [
+                        {
+                           "name": "X",
+                           "color": "#AED6F1",
+                           "size": 1
+                        },
+                        {
+                           "name": "Y",
+                           "color": "#85C1E9",
+                           "size": 1
+                        },
+                        {
+                           "name": "Z",
+                           "color": "#85C1E9",
+                           "size": 1
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "S",
+               "color": "#85C1E9",
+               "children": [
+                  {
+                     "name": "H",
+                     "color": "#A9DFBF",
+                     "size": 1
+                  },
+                  {
+                     "name": "I",
+                     "color": "#F9E79F",
+                     "size": 1
+                  },
+                  {
+                     "name": "J",
+                     "color": "#AED6F1",
+                     "size": 1
+                  },
+                  {
+                     "name": "K",
+                     "color": "#85C1E9",
+                     "size": 1
+                  },
+                  {
+                     "name": "L",
+                     "color": "#A9DFBF",
+                     "size": 1
+                  }
+               ]
+            }
+         ]
+      }
    ]
-  }]
 }
