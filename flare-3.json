@@ -1,37 +1,37 @@
 {
- "name": "A",
+ "name": "A", "color": "#a9a9a9",
  "children": [
   {
-   "name": "B",
+   "name": "B", "color": "#a9a9a9",
    "children": [
     {
-     "name": "C",
+     "name": "C", "color": "#a9a9a9",
      "children": [
-      {"name": "D", "size": 1},
-      {"name": "E", "size": 1},
-      {"name": "F", "size": 1},
-      {"name": "G", "size": 1}
+      {"name": "D", "size": 1, "color": "#a9a9a9"},
+      {"name": "E", "size": 1, "color": "#a9a9a9"},
+      {"name": "F", "size": 1, "color": "#a9a9a9"},
+      {"name": "G", "size": 1, "color": "#a9a9a9"}
      ]
     },
     {
-     "name": "S",
+     "name": "S", "color": "#a9a9a9",
      "children": [
-      {"name": "H", "size": 1},
-      {"name": "I", "size": 1},
-      {"name": "J", "size": 1},
-      {"name": "K", "size": 1},
-      {"name": "L", "size": 1}
+      {"name": "H", "size": 1, "color": "#a9a9a9"},
+      {"name": "I", "size": 1, "color": "#a9a9a9"},
+      {"name": "J", "size": 1, "color": "#a9a9a9"},
+      {"name": "K", "size": 1, "color": "#a9a9a9"},
+      {"name": "L", "size": 1, "color": "#a9a9a9"}
      ]
     },
     {
-     "name": "M",
+     "name": "M", "color": "#a9a9a9",
      "children": [
-      {"name": "N", 
+      {"name": "N", "color": "#a9a9a9", 
         "children": [
 
-      {"name": "X", "size": 1},
-      {"name": "Y", "size": 1},
-      {"name": "Z", "size": 1}
+      {"name": "X", "size": 1, "color": "#a9a9a9"},
+      {"name": "Y", "size": 1, "color": "#a9a9a9"},
+      {"name": "Z", "size": 1, "color": "#a9a9a9"}
         ]
 
         }
