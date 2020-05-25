@@ -15,42 +15,42 @@
                   },
                   {
                      "name": "E",
-                     "color": "#F9E79F",
+                     "color": "#A9DFBF",
                      "size": 1
                   },
                   {
                      "name": "F",
-                     "color": "#AED6F1",
+                     "color": "#A9DFBF",
                      "size": 1
                   },
                   {
                      "name": "G",
-                     "color": "#85C1E9",
+                     "color": "#A9DFBF",
                      "size": 1
                   }
                ]
             },
             {
                "name": "M",
-               "color": "#AED6F1",
+               "color": "#A9DFBF",
                "children": [
                   {
                      "name": "N",
-                     "color": "#F9E79F",
+                     "color": "#A9DFBF",
                      "children": [
                         {
                            "name": "X",
-                           "color": "#AED6F1",
+                           "color": "#A9DFBF",
                            "size": 1
                         },
                         {
                            "name": "Y",
-                           "color": "#85C1E9",
+                           "color": "#A9DFBF",
                            "size": 1
                         },
                         {
                            "name": "Z",
-                           "color": "#85C1E9",
+                           "color": "#A9DFBF",
                            "size": 1
                         }
                      ]
@@ -59,7 +59,7 @@
             },
             {
                "name": "S",
-               "color": "#85C1E9",
+               "color": "#A9DFBF",
                "children": [
                   {
                      "name": "H",
@@ -68,17 +68,17 @@
                   },
                   {
                      "name": "I",
-                     "color": "#F9E79F",
+                     "color": "#A9DFBF",
                      "size": 1
                   },
                   {
                      "name": "J",
-                     "color": "#AED6F1",
+                     "color": "#A9DFBF",
                      "size": 1
                   },
                   {
                      "name": "K",
-                     "color": "#85C1E9",
+                     "color": "#A9DFBF",
                      "size": 1
                   },
                   {
