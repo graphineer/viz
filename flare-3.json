@@ -1,5 +1,5 @@
 {
-   "name": "A", "color": "#red", "children": [
+   "name": "A", "color": "red", "children": [
       {
          "name": "B",
          "color": "#A9DFBF",
