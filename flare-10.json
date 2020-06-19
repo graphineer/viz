@@ -83,7 +83,34 @@
                   {
                      "name": "4022.451.01151",
                      "color": "yellowgreen",
-                     "size": 1
+                     "children": [
+                        {
+                           "name": "4022.451.01051",
+                           "color": "yellowgreen",
+                           "size": 1
+                        },
+                        {
+                           "name": "4022.658.59191",
+                           "color": "yellowgreen",
+                           "children": [
+                              {
+                                 "name": "4022.474.79941",
+                                 "color": "yellowgreen",
+                                 "size": 1
+                              },
+                              {
+                                 "name": "4022.488.40401",
+                                 "color": "yellowgreen",
+                                 "size": 1
+                              },
+                              {
+                                 "name": "4022.489.00087",
+                                 "color": "",
+                                 "size": 1
+                              }
+                           ]
+                        }
+                     ]
                   }
                ]
             },
@@ -107,3 +134,5 @@
       }
    ]
 }
+1
+​
