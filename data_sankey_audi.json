@@ -1,0 +1,156 @@
+{
+    "nodes": [
+        {
+            "node": "<http://audi.com/bpmn#CSMS_Kapitel>",
+            "name": "CSMS_Kapitel"
+        },
+        {
+            "node": "<http://audi.com/bpmn#Cluster_Anforderungsmanagement>",
+            "name": "Cluster_Anforderungsmanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#Cluster_Freigabemanagement>",
+            "name": "Cluster_Freigabemanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#Cluster_Risikomanagement>",
+            "name": "Cluster_Risikomanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#Cluster_Softwareentwicklung>",
+            "name": "Cluster_Softwareentwicklung"
+        },
+        {
+            "node": "<http://audi.com/bpmn#Cluster_Zulieferermanagement>",
+            "name": "Cluster_Zulieferermanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#LeadProzess_Anforderungsmanagement>",
+            "name": "LeadProzess_Anforderungsmanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#LeadProzess_Architekturmanagement>",
+            "name": "LeadProzess_Architekturmanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#LeadProzess_Freigabemanagement>",
+            "name": "LeadProzess_Freigabemanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#LeadProzess_IVV>",
+            "name": "LeadProzess_IVV"
+        },
+        {
+            "node": "<http://audi.com/bpmn#LeadProzess_Informationsmanagement>",
+            "name": "LeadProzess_Informationsmanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#LeadProzess_Projektmanagement>",
+            "name": "LeadProzess_Projektmanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#LeadProzess_Risikomanagement>",
+            "name": "LeadProzess_Risikomanagement"
+        },
+        {
+            "node": "<http://audi.com/bpmn#LeadProzess_offen>",
+            "name": "LeadProzess_offen"
+        },
+        {
+            "node": "<http://audi.com/bpmn#SUMS_Kapitel>",
+            "name": "SUMS_Kapitel"
+        }
+    ],
+    "links": [
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_Architekturmanagement>",
+            "value": 29,
+            "target": "<http://audi.com/bpmn#SUMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_Anforderungsmanagement>",
+            "value": 12,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_IVV>",
+            "value": 11,
+            "target": "<http://audi.com/bpmn#SUMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_Architekturmanagement>",
+            "value": 9,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_offen>",
+            "value": 2,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_IVV>",
+            "value": 10,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_Risikomanagement>",
+            "value": 33,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_Freigabemanagement>",
+            "value": 1,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_Projektmanagement>",
+            "value": 8,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_Anforderungsmanagement>",
+            "value": 28,
+            "target": "<http://audi.com/bpmn#SUMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#LeadProzess_Informationsmanagement>",
+            "value": 75,
+            "target": "<http://audi.com/bpmn#SUMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#Cluster_Anforderungsmanagement>",
+            "value": 1,
+            "target": "<http://audi.com/bpmn#SUMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#Cluster_Freigabemanagement>",
+            "value": 3,
+            "target": "<http://audi.com/bpmn#SUMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#Cluster_Zulieferermanagement>",
+            "value": 11,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#Cluster_Risikomanagement>",
+            "value": 2,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#Cluster_Anforderungsmanagement>",
+            "value": 1,
+            "target": "<http://audi.com/bpmn#CSMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#Cluster_Softwareentwicklung>",
+            "value": 1,
+            "target": "<http://audi.com/bpmn#SUMS_Kapitel>"
+        },
+        {
+            "source": "<http://audi.com/bpmn#Cluster_Zulieferermanagement>",
+            "value": 1,
+            "target": "<http://audi.com/bpmn#SUMS_Kapitel>"
+        }
+    ]
+}
