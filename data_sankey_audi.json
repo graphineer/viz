@@ -13,8 +13,52 @@
             "name": "Cluster_Freigabemanagement"
         },
         {
-            "node": 14,
+            "node": 3,
+            "name": "Cluster_Risikomanagement"
+        },
+        {
+            "node": 4,
             "name": "Cluster_Softwareentwicklung"
+        },
+        {
+            "node": 5,
+            "name": "Cluster_Zulieferermanagement"
+        },
+        {
+            "node": 6,
+            "name": "LeadProzess_Anforderungsmanagement"
+        },
+        {
+            "node": 7,
+            "name": "LeadProzess_Architekturmanagement"
+        },
+        {
+            "node": 8,
+            "name": "LeadProzess_Freigabemanagement"
+        },
+        {
+            "node": 9,
+            "name": "LeadProzess_IVV"
+        },
+        {
+            "node": 10,
+            "name": "LeadProzess_Informationsmanagement"
+        },
+        {
+            "node": 11,
+            "name": "LeadProzess_Projektmanagement"
+        },
+        {
+            "node": 12,
+            "name": "LeadProzess_Risikomanagement"
+        },
+        {
+            "node": 13,
+            "name": "LeadProzess_offen"
+        },
+        {
+            "node": 14,
+            "name": "SUMS_Kapitel"
         }
     ],
     "links": [
@@ -35,6 +79,76 @@
         },
         {
             "source": 3,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 4,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 14,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 0,
+            "value": 11
+        },
+        {
+            "source": 6,
+            "target": 0,
+            "value": 12
+        },
+        {
+            "source": 6,
+            "target": 14,
+            "value": 28
+        },
+        {
+            "source": 7,
+            "target": 14,
+            "value": 29
+        },
+        {
+            "source": 7,
+            "target": 0,
+            "value": 9
+        },
+        {
+            "source": 8,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 0,
+            "value": 10
+        },
+        {
+            "source": 9,
+            "target": 14,
+            "value": 11
+        },
+        {
+            "source": 10,
+            "target": 14,
+            "value": 75
+        },
+        {
+            "source": 11,
+            "target": 0,
+            "value": 8
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 33
+        },
+        {
+            "source": 13,
             "target": 0,
             "value": 2
         }
