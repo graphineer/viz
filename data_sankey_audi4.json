@@ -1,0 +1,13 @@
+{
+"nodes":[
+{"node":0,"name":"CSMS_Kapitel"},
+{"node":1,"name":"Cluster_Anforderungsmanagement"},
+{"node":2,"name":"Cluster_Freigabemanagement"},
+{"node":14,"name":"Cluster_Softwareentwicklung"}
+],
+"links":[
+{"source":1,"target":0,"value":1},
+{"source":1,"target":14,"value":1},
+{"source":2,"target":14,"value":3},
+{"source":3,"target":0,"value":2}
+]}
