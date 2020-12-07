@@ -1,0 +1,246 @@
+{
+    "nodes": [
+        {
+            "node": 0,
+            "name": "CSMS_Kapitel"
+        },
+        {
+            "node": 1,
+            "name": "Cluster_AM"
+        },
+        {
+            "node": 2,
+            "name": "Cluster_ARCH"
+        },
+        {
+            "node": 3,
+            "name": "Cluster_FM"
+        },
+        {
+            "node": 4,
+            "name": "Cluster_FP"
+        },
+        {
+            "node": 5,
+            "name": "Cluster_IM"
+        },
+        {
+            "node": 6,
+            "name": "Cluster_IVV"
+        },
+        {
+            "node": 7,
+            "name": "Cluster_KM"
+        },
+        {
+            "node": 8,
+            "name": "Cluster_PM"
+        },
+        {
+            "node": 9,
+            "name": "Cluster_QM"
+        },
+        {
+            "node": 10,
+            "name": "Cluster_RM"
+        },
+        {
+            "node": 11,
+            "name": "LeadProzess_Anforderungsmanagement"
+        },
+        {
+            "node": 12,
+            "name": "LeadProzess_Architekturmanagement"
+        },
+        {
+            "node": 13,
+            "name": "LeadProzess_Freigabemanagement"
+        },
+        {
+            "node": 14,
+            "name": "LeadProzess_IVV"
+        },
+        {
+            "node": 15,
+            "name": "LeadProzess_Informationsmanagement"
+        },
+        {
+            "node": 16,
+            "name": "LeadProzess_Projektmanagement"
+        },
+        {
+            "node": 17,
+            "name": "LeadProzess_Risikomanagement"
+        },
+        {
+            "node": 18,
+            "name": "LeadProzess_offen"
+        },
+        {
+            "node": 19,
+            "name": "PRM_Anforderungsmanagement"
+        },
+        {
+            "node": 20,
+            "name": "PRM_Freigabemanagement"
+        },
+        {
+            "node": 21,
+            "name": "PRM_Risikomanagement"
+        },
+        {
+            "node": 22,
+            "name": "PRM_Softwareentwicklung"
+        },
+        {
+            "node": 23,
+            "name": "PRM_Zulieferermanagement"
+        },
+        {
+            "node": 24,
+            "name": "SUMS_Kapitel"
+        }
+    ],
+    "links": [
+        {
+            "source": 11,
+            "target": 0,
+            "value": 12
+        },
+        {
+            "source": 11,
+            "target": 1,
+            "value": 31
+        },
+        {
+            "source": 11,
+            "target": 24,
+            "value": 28
+        },
+        {
+            "source": 12,
+            "target": 24,
+            "value": 29
+        },
+        {
+            "source": 12,
+            "target": 2,
+            "value": 17
+        },
+        {
+            "source": 12,
+            "target": 0,
+            "value": 9
+        },
+        {
+            "source": 13,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 3,
+            "value": 1
+        },
+        {
+            "source": 14,
+            "target": 0,
+            "value": 10
+        },
+        {
+            "source": 14,
+            "target": 24,
+            "value": 11
+        },
+        {
+            "source": 14,
+            "target": 6,
+            "value": 6
+        },
+        {
+            "source": 15,
+            "target": 5,
+            "value": 16
+        },
+        {
+            "source": 15,
+            "target": 24,
+            "value": 75
+        },
+        {
+            "source": 16,
+            "target": 0,
+            "value": 8
+        },
+        {
+            "source": 16,
+            "target": 8,
+            "value": 5
+        },
+        {
+            "source": 17,
+            "target": 10,
+            "value": 33
+        },
+        {
+            "source": 17,
+            "target": 0,
+            "value": 33
+        },
+        {
+            "source": 18,
+            "target": 5,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 18,
+            "target": 7,
+            "value": 1
+        },
+        {
+            "source": 18,
+            "target": 9,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 0,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 24,
+            "value": 3
+        },
+        {
+            "source": 21,
+            "target": 0,
+            "value": 2
+        },
+        {
+            "source": 22,
+            "target": 24,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 0,
+            "value": 11
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "value": 1
+        }
+    ]
+}
