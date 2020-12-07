@@ -1,37 +1,12 @@
 {
-    "nodes":[
-        {
-            "node":0,
-            "name":"CSMS_Kapitel"
-        },
-        {
-            "node":1,
-            "name":"Cluster_Anforderungsmanagement"
-        },
-        {
-            "node":2,
-            "name":"Cluster_Freigabemanagement"
-        },
-        {
-            "node":14,
-            "name":"Cluster_Risikomanagement"
-        }
-    ],
-    "links":[
-        {
-            "source":1,
-            "value":1,
-            "target":0
-        },
-        {
-            "source":1,
-            "value":1,
-            "target":14
-        },
-        {
-            "source":2,
-            "value":3,
-            "target":14
-        }
-    ]
-}
+"nodes":[
+{"node":0,"name":"CSMS_Kapitel"},
+{"node":1,"name":"Cluster_Anforderungsmanagement"},
+{"node":2,"name":"Cluster_Freigabemanagement"},
+{"node":14,"name":"Cluster_Risikomanagement"}
+],
+"links":[
+{"source":1,"value":1,"target":0},
+{"source":1,"value":1,"target":14},
+{"source":2,"value":3,"target":14}
+]}
