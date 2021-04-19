@@ -1,0 +1,847 @@
+{
+   "name": "4022.669.48292", "children": [
+      {
+         "name": "4022.657.26685",
+         "color": "yellow",
+         "children": [
+            {
+               "name": "4022.662.03954",
+               "color": "deepskyblue",
+               "children": [
+                  {
+                     "name": "4022.662.03954A",
+                     "color": "red",
+                     "size": 1
+                  }
+               ]
+            },
+            {
+               "name": "4022.669.66523",
+               "color": "deepskyblue",
+               "children": [
+                  {
+                     "name": "4022.669.66520R",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.66523A",
+                     "color": "red",
+                     "size": 1
+                  }
+               ]
+            },
+            {
+               "name": "4022.672.19701",
+               "color": "deepskyblue",
+               "children": [
+                  {
+                     "name": "4022.430.06461_4022.672.197014022.657.266854022.669.48292",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.00167",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.00434",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.00530",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.00541",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.00663",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.00859",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.93603",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.93612",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.93621",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.95062",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.95071",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.99784",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.99794",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.663.20042",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.672.19700R",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.672.19701A",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.672.19701T",
+                     "color": "red",
+                     "size": 1
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "4022.669.48290R",
+         "color": "red",
+         "children": [
+            {
+               "name": "4022.662.92171",
+               "color": "tomato",
+               "size": 1
+            }
+         ]
+      },
+      {
+         "name": "4022.669.48292A",
+         "color": "red",
+         "children": [
+            {
+               "name": "4022.438.31491",
+               "color": "red",
+               "size": 1
+            },
+            {
+               "name": "4022.438.31492",
+               "color": "red",
+               "size": 1
+            },
+            {
+               "name": "4022.645.34653",
+               "color": "green",
+               "children": [
+                  {
+                     "name": "4022.428.79352_4022.645.346534022.669.48292A4022.669.48292",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.451.34073_4022.645.346534022.669.48292A4022.669.48292",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.479.00143",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.488.14101",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.00087",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93981",
+                     "color": "green",
+                     "size": 1
+                  }
+               ]
+            },
+            {
+               "name": "4022.645.49913",
+               "color": "green",
+               "children": [
+                  {
+                     "name": "4022.428.79352_4022.645.499134022.669.48292A4022.669.48292",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.81451",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.81501",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.87822",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.87842",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.87852",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.90944",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.91165",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.91262",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.96911",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.97111",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.97112",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.97211",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.97212",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.98692",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.451.34073_4022.645.499134022.669.48292A4022.669.48292",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.453.90541",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.51464",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.51672",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.90535",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93411",
+                     "color": "green",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93421",
+                     "color": "green",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93431",
+                     "color": "green",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93441",
+                     "color": "green",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93451",
+                     "color": "green",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93461",
+                     "color": "green",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93471",
+                     "color": "green",
+                     "size": 1
+                  }
+               ]
+            },
+            {
+               "name": "4022.658.66141",
+               "color": "red",
+               "children": [
+                  {
+                     "name": "4022.474.18781",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.474.71031",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.60456",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93711",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93721",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.645.93731",
+                     "color": "tomato",
+                     "size": 1
+                  }
+               ]
+            },
+            {
+               "name": "4022.660.77753",
+               "color": "red",
+               "size": 1
+            },
+            {
+               "name": "4022.662.97132",
+               "color": "yellow",
+               "children": [
+                  {
+                     "name": "4022.629.00142",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.00477",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.00665",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.629.01042",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.95281",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.95291",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.95322",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.95332",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.97132A",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.98381",
+                     "color": "red",
+                     "size": 1
+                  }
+               ]
+            },
+            {
+               "name": "4022.667.52391",
+               "color": "red",
+               "children": [
+                  {
+                     "name": "4022.662.16891",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.16901",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.667.52391A",
+                     "color": "red",
+                     "size": 1
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "4022.669.48292T",
+         "color": "red",
+         "children": [
+            {
+               "name": "4022.645.49913-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.648.59913-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.648.68322-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.648.69181-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.655.37482-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.658.09811-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.658.11241-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.660.77693-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.660.77783-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.660.77802-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.660.91392-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.660.91551-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.662.04702-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.662.06704-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.662.11511-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.662.11521-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.662.82693-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.663.01549-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.667.07682-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.667.52391-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.667.59301-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.674.39401-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.674.55731-FET",
+               "color": "yellowgreen",
+               "size": 1
+            },
+            {
+               "name": "4022.674.85561-FET",
+               "color": "yellowgreen",
+               "size": 1
+            }
+         ]
+      },
+      {
+         "name": "4022.669.63831",
+         "color": "yellow",
+         "children": [
+            {
+               "name": "4022.669.33264",
+               "color": "deepskyblue",
+               "children": [
+                  {
+                     "name": "4022.430.06461_4022.669.332644022.669.638314022.669.48292",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.437.10431",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.438.39488",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.438.77176",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.438.80166",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.60441",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.70318",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.70638",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.70888",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.73031",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.81261",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.90565",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.90567",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.90843",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.90846",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.90943",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.439.91043",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.453.90481",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.453.90521",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.456.13701",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.70188",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.72255",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.73062",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.74637",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.74650",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.75314",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.75320",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.75322",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.489.75425",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.644.32441",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.97301",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.664.23811",
+                     "color": "deepskyblue",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.33260R",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.33264A",
+                     "color": "red",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.39331",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.46303",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.46312",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.46393",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.47002",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.55981",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.669.56002",
+                     "color": "tomato",
+                     "size": 1
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "4022.672.70931",
+         "color": "yellow",
+         "children": [
+            {
+               "name": "4022.660.91253",
+               "color": "deepskyblue",
+               "children": [
+                  {
+                     "name": "4022.662.87871",
+                     "color": "tomato",
+                     "size": 1
+                  }
+               ]
+            },
+            {
+               "name": "4022.662.10234",
+               "color": "deepskyblue",
+               "size": 1
+            }
+         ]
+      },
+      {
+         "name": "4022.675.54061",
+         "color": "yellow",
+         "children": [
+            {
+               "name": "4022.662.89191",
+               "color": "tomato",
+               "children": [
+                  {
+                     "name": "4022.657.13661",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.657.13671",
+                     "color": "tomato",
+                     "size": 1
+                  },
+                  {
+                     "name": "4022.662.89081",
+                     "color": "tomato",
+                     "size": 1
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
